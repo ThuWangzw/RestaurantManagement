@@ -1,0 +1,22 @@
+{
+    "msgname": [
+        "gogoog!"
+    ],
+    "name": "waiter",
+    "password": "waiter",
+    "table": 0,
+    "type": 3,
+    "username": [
+        "12345678910"
+    ],
+    "waitgrade": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "waitnum": 3
+}
